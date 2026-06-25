@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://whiskey-in-a-jar.zappy5.app
 גלה אתר אישי ואלגנטי המוקדש לאוסף בקבוקי וויסקי נדירים. הצטרף לחוויית לייפסטייל יוקרתית עם סיפורים, טעמים ואווירה שאין דומה לה. היכנס והתאהב מחדש בתרבות הוויסקי.
 
 ### תודה על פנייתך
-https://example.com/thank-you
+https://whiskey-in-a-jar.zappy5.app/thank-you
 whiskey in a jar - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://whiskey-in-a-jar.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://whiskey-in-a-jar.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://whiskey-in-a-jar.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://whiskey-in-a-jar.zappy5.app
+- Endpoint: https://whiskey-in-a-jar.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -65,6 +65,6 @@ Whisky Collection / Lifestyle
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://whiskey-in-a-jar.zappy5.app/sitemap.xml
+- Robots: https://whiskey-in-a-jar.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://whiskey-in-a-jar.zappy5.app/llms-full.txt
