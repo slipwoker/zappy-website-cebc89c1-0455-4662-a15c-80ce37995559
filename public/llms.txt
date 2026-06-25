@@ -1,0 +1,70 @@
+# whiskey in a jar — Generative Engine Optimization Map
+
+> A personal landing page showcasing a whisky bottle collection. The site aims to present the collector's passion for whisky, highlighting the unique bottles in the collection with an elegant and sophisticated atmosphere typical of whisky culture.
+
+---
+
+## Pages
+
+### בית
+https://whiskey-in-a-jar-cebc89c1.zappy5.app
+גלה אתר אישי ואלגנטי המוקדש לאוסף בקבוקי וויסקי נדירים. הצטרף לחוויית לייפסטייל יוקרתית עם סיפורים, טעמים ואווירה שאין דומה לה. היכנס והתאהב מחדש בתרבות הוויסקי.
+
+### תודה על פנייתך
+https://whiskey-in-a-jar-cebc89c1.zappy5.app/thank-you
+whiskey in a jar - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://whiskey-in-a-jar-cebc89c1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://whiskey-in-a-jar-cebc89c1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://whiskey-in-a-jar-cebc89c1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://whiskey-in-a-jar-cebc89c1.zappy5.app
+- Endpoint: https://whiskey-in-a-jar-cebc89c1.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About whiskey in a jar
+A personal landing page showcasing a whisky bottle collection. The site aims to present the collector's passion for whisky, highlighting the unique bottles in the collection with an elegant and sophisticated atmosphere typical of whisky culture.
+
+## Target Audience
+- חובבי וויסקי ואספנים
+- אספני וויסקי
+- חובבי וויסקי
+- מחפשי אורח חיים יוקרתי
+
+## Industry
+Whisky Collection / Lifestyle
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://whiskey-in-a-jar-cebc89c1.zappy5.app/sitemap.xml
+- Robots: https://whiskey-in-a-jar-cebc89c1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://whiskey-in-a-jar-cebc89c1.zappy5.app/llms-full.txt
