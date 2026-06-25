@@ -2,13 +2,13 @@
 
 A personal landing page showcasing a whisky bottle collection. The site aims to present the collector's passion for whisky, highlighting the unique bottles in the collection with an elegant and sophisticated atmosphere typical of whisky culture.
 
-Source: https://whiskey-in-a-jar-cebc89c1.zappy5.app
+Source: https://example.com
 
 ---
 
 ## התחל את המסע אל עולם הוויסקי — whiskey in a jar
 
-URL: https://whiskey-in-a-jar-cebc89c1.zappy5.app
+URL: https://example.com
 Description: גלה אתר אישי ואלגנטי המוקדש לאוסף בקבוקי וויסקי נדירים. הצטרף לחוויית לייפסטייל יוקרתית עם סיפורים, טעמים ואווירה שאין דומה לה. היכנס והתאהב מחדש בתרבות הוויסקי.
 
 התחל את המסע אל עולם הוויסקי — whiskey in a jar
@@ -653,7 +653,7 @@ Family Reserve
 
 ## מדיניות פרטיות
 
-URL: https://whiskey-in-a-jar-cebc89c1.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -930,7 +930,7 @@ whiskey in a jar ("החברה", "אנו", "שלנו") מחויבת להגן על
 
 ## הצהרת נגישות
 
-URL: https://whiskey-in-a-jar-cebc89c1.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1216,7 +1216,7 @@ whiskey in a jar מחויבת להנגיש את השירותים לכלל הצי
 
 ## תנאי שימוש
 
-URL: https://whiskey-in-a-jar-cebc89c1.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1521,7 +1521,7 @@ whiskey in a jar מספקת Whisky Collection / Lifestyle דרך האתר. הש�
 
 ## תודה על פנייתך
 
-URL: https://whiskey-in-a-jar-cebc89c1.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: whiskey in a jar - תודה על פנייתך
 
 תודה על פנייתך
